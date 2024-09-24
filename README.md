@@ -1,4 +1,6 @@
 # Project
+(Object detection using CV tools)similarity-and-dissimilarity-measurement-using-statistical-metrics
+
 
 The main goal of this project is to develop a computer vision system that could perform
 an object (for example, coins, faces, animals, cars, plants) recognition (classification)
