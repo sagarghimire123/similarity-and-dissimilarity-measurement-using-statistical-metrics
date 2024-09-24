@@ -8,4 +8,5 @@ Chain Code, Area, and Local Binary Pattern)
 This project is about gender detection where 5 male and 5 female images are used for preprocessing
 and feature extraction. Finally, the correlation coefficient is used to measure the similarity between
 males and females respectively.
-Images taken from Kaggle.com
+
+                 Images taken from Kaggle.com
